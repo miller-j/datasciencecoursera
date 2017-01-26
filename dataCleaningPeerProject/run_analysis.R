@@ -1,4 +1,4 @@
-run_run_analysis <- function() {
+run_analysis <- function() {
   library(data.table)
   library(dplyr)
   library(reshape2)
