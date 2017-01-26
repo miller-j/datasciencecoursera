@@ -1,9 +1,3 @@
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Code Book
 
 This document provides information about the generated data sets by the script `run_analysis.R`, provided in this repository.
